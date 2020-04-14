@@ -1,0 +1,7 @@
+#! /usr/bin/env python
+
+import simple_simulator.sinsim
+
+
+if __name__ == '__main__':
+    simple_simulator.sinsim.start('my friend!')
